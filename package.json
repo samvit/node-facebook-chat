@@ -11,8 +11,7 @@
   ],
   "homepage": "https://github.com/SideraX/node-facebook-chat",
   "dependencies": {
-    "node-xmpp": "",
-    "node-stringprep": ""
+    "node-xmpp": ""
   },
   "repository": {
     "type": "git",
