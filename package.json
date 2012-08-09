@@ -11,6 +11,7 @@
   ],
   "homepage": "https://github.com/SideraX/node-facebook-chat",
   "dependencies": {
+    "node-expat": "git://github.com/TooTallNate/node-expat.git#gyp",
     "node-xmpp": ""
   },
   "repository": {
